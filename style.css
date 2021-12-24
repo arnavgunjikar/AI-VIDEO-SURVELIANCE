@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+}
+
+#start, #numberOfObjects, #status
+{
+    font-size: 20px;
+}
+
+.heading
+{
+    font-size: 23px;
+    font-style: italic;
+    letter-spacing: 2px;
+    background-color: greenyellow;
+    color: snow;
+    width: 100%;
+    margin: 0;
+}
+
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px snow;
+    margin-top: 130px;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    color: snow;
+    bottom: 0;
+    position: fixed;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    background-color: gray;
+    line-height: 2;
+}
